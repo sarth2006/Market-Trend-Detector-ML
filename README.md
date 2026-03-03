@@ -120,5 +120,5 @@ jupyter notebook
 
 ## 👤 Author
 
-Your Name\
+Sarth Kaushik\
 IIT Delhi
